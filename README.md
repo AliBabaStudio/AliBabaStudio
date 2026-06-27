@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Ali 
 
-<!--
-**AliBabaStudio/AliBabaStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motion Designer focused on SaaS, AI, and developer tools.
 
-Here are some ideas to get you started:
+I help founders explain complex products through clear demo videos, onboarding videos, and product explainers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ What I work on
+
+- SaaS Product Demos
+- Explainer Videos
+- AI Product Videos
+- Motion Design
+- Product Launch Videos
+- Developer Tool Videos
+
+Industries
+
+- SaaS
+- AI
+- Developer Tools
+- FinTech
+- Productivity
+- B2B Software
+
+Current Focus
+
+Helping startups improve product communication, onboarding, and user adoption.
+
+Always happy to connect with founders building interesting products.
