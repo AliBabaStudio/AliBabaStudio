@@ -1,29 +1,59 @@
-Hi, I'm Ali 
+Hi, I'm Ali
 
-Motion Designer focused on SaaS, AI, and developer tools.
+Product Communication Specialist for SaaS & AI
 
-I help founders explain complex products through clear demo videos, onboarding videos, and product explainers.
+I work with SaaS founders to explain complex products through product demos, explainer videos, and onboarding content.
 
- What I work on
+Over the past 3–4 years, I've contributed to more than 500 projects across SaaS platforms, AI products, developer tools, dashboards, and mobile apps.
 
-- SaaS Product Demos
-- Explainer Videos
-- AI Product Videos
-- Motion Design
-- Product Launch Videos
-- Developer Tool Videos
+My goal is simple: help users understand your product faster.
+
+What I Do
+
+* SaaS product demo videos
+* Product explainer videos
+* AI product videos
+* Onboarding and tutorial videos
+* Product launch videos
+* Motion graphics and UI animation
+
+What I Focus On
+
+I enjoy working with products that solve real problems but are difficult to explain.
+
+Typical projects include:
+
+* Turning complex workflows into clear product stories
+* Creating onboarding videos for new users
+* Explaining new features and releases
+* Producing investor and product launch videos
+* Improving how products are presented on landing pages
 
 Industries
 
-- SaaS
-- AI
-- Developer Tools
-- FinTech
-- Productivity
-- B2B Software
+* SaaS
+* Artificial Intelligence
+* Developer Tools
+* FinTech
+* Productivity Software
+* B2B Software
 
-Current Focus
+#Tools
 
-Helping startups improve product communication, onboarding, and user adoption.
+* Adobe After Effects
+* Adobe Premiere Pro
+* Camtasia
+* Figma
+* Adobe Illustrator
+* Adobe Photoshop
+* Rotato
 
-Always happy to connect with founders building interesting products.
+Connect
+
+I'm always interested in meeting founders, developers, and product teams building useful software.
+
+LinkedIn: https://www.linkedin.com/in/alihassanofferingexplaindervideos)
+
+X: https://x.com/x.com/AliBabaStudios_)
+
+Portfolio: https://linktr.ee/AliBabaStudios)
